@@ -1,0 +1,80 @@
+
+{
+    "meals": [
+      {
+        "id": "1",
+        "name": "Ugali Fish",
+        "price": "Ksh 1000",
+        "image": "images/meals/img1.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Rice Chicken",
+        "price": "Ksh 1500",
+        "image": "images/meals/img2.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Spaghetti Beef",
+        "price": "Ksh 1000",
+        "image": "images/meals/img3.jpg"
+      },
+      {
+        "id": "4",
+        "name": "French fries",
+        "price": "Ksh 1200",
+        "image": "images/meals/img8.jpeg"
+      },
+      {
+        "id": "5",
+        "name": "Pilau",
+        "price": "Ksh 1500",
+        "image": "images/meals/img5.webp"
+      },
+      {
+        "id": "6",
+        "name": "Mokimo",
+        "price": "Ksh 2500",
+        "image": "images/meals/img6.jpg"
+      }
+
+    ],
+    "beverages": [
+        {
+            "id": "1",
+            "name": "orange juice ",
+            "quantity": "2ltrs",
+            "price": "Ksh 500",
+            "image": "images/beverages/img7.png"
+        },
+        {
+            "id": "2",
+            "name": "Apple juice ",
+            "quantity": "2ltrs",
+            "price": "Ksh 700",
+            "image": "images/beverages/img8.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Pineapple juice",
+            "quantity": "2ltrs",
+            "price": "Ksh 800",
+            "image": "images/beverages/img9.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Mojito",
+            "quantity": "2ltrs",
+            "price": "Ksh 1000",
+            "image": "images/beverages/mojito.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Passion juice",
+            "quantity": "1ltr",
+            "price": "Ksh 900",
+            "image": "images/beverages/passion.jpg"
+        }
+
+    ]
+}

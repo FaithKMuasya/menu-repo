@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    text-align: center;
+}
+
+h2 {
+    color: #059669;
+}
+
+.meal-search-box {
+    padding: 10px;
+}
+.search-btn {
+    padding:8px;
+    border-radius: 10px;
+    border: 2px solid #059669;
+    background-color: darkorange;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 50px;
+    font-size: 18px;
+}
+.img {
+    width: 150px;
+    height: 150px;
+}
